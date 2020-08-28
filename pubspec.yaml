@@ -6,7 +6,7 @@ author: fgyong
 repository: https://github.com/ifgyong/flutter_custom_calendar
 issue_tracker: https://github.com/ifgyong/flutter_custom_calendar/issues
 environment:
-  sdk: ">=1.13.0 <3.0.0"
+  sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
   flutter:
